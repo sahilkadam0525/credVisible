@@ -19,3 +19,5 @@ CredVisible is an alternative, privacy-preserving credit scoring and safe loan l
    ```bash
    git clone [https://github.com/YOUR_USERNAME/credvisible-mvp.git](https://github.com/YOUR_USERNAME/credvisible-mvp.git)
    cd credvisible-mvp
+
+   THIS IS OUR PROJECT 
